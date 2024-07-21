@@ -55,7 +55,6 @@
             </section>
         </div>
     </div>
-    <script src="https://drive.google.com/uc?id=1yz-_YyTJaKgnnZrcHBI0fYRRog7gkOu6"></script>
 </body>
 
 </html>
